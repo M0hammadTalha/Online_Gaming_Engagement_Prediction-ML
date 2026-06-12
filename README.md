@@ -1,8 +1,8 @@
-Gaming Engagement Prediction Using Machine Learning
+Online Gaming Engagement Prediction Using Machine Learning
 
 Overview
 
-This project focuses on predicting gaming engagement using Machine Learning techniques. The workflow includes data preprocessing, exploratory data analysis, feature engineering, model training, evaluation, and hyperparameter tuning.
+This project focuses on predicting online gaming engagement using Machine Learning techniques. The workflow includes data preprocessing, exploratory data analysis, feature engineering, model training, evaluation, and hyperparameter tuning.
 
 Technologies Used
 
